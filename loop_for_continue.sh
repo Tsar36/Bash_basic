@@ -2,7 +2,7 @@
 
 for i in {1..10}
 do
-	if [ $i -gt 2 ] || [ $i -eq 5 ]
+	if [ $i -eq 2 ] || [ $i -eq 5 ]
 	then
 		continue
 	fi
