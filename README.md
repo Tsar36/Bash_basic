@@ -1,5 +1,5 @@
 # Bash_basic
-The basic bash for the beginners. 
+## The basic bash for the beginners. 
 
 To run a script use:
 
