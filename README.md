@@ -1,8 +1,8 @@
 # Bash_basic
-Bash is basic for beginners. 
+The basic bash for the beginners. 
 
 To run a script use:
 
 sudo chmod +x <script_name>.sh 
 
-./script.sh
+./script_name.sh
